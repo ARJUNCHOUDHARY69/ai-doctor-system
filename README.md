@@ -1,5 +1,11 @@
 # Vital AI – Intelligent Healthcare Analytics & Personalized Wellness Platform
 
+
+![0](https://github.com/user-attachments/assets/c7c73661-350e-4014-af63-a2aeb197978d)
+
+
+
+
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
 - [Core Vision & Problem Statement](#core-vision--problem-statement)
