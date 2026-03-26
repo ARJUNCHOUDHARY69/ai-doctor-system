@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ai-doctor-system
+    env: node
+    plan: free
+    buildCommand: npm install --legacy-peer-deps
+    startCommand: npm run dev
+    envVars:
+      - key: PORT
+        value: 10000
